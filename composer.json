@@ -1,0 +1,20 @@
+{
+    "name": "stpar/markdown",
+    "description": "this is a MarkDown Handler ...",
+    "license": "MIT",
+    "authors": [{
+        "name": "Venus",
+        "email": "bussinse@example.com"
+    }],
+    "autoload": {
+        "files": [
+            "stpar/markdown/src/helpers.php"
+        ],
+        "psr-4": {
+            "stpar\\": "stpar"
+        }
+    },
+    "require": {
+        "php": ">=8.0.0"
+    }
+}
