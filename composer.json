@@ -7,9 +7,9 @@
         "email": "bussinse@example.com"
     }],
     "autoload": {
-        "files": [
-            "stpar/markdown/src/helpers.php"
-        ],
+        //"files": [
+        //    "stpar/markdown/src/helpers.php"
+        //],
         "psr-4": {
             "stpar\\": "stpar"
         }
